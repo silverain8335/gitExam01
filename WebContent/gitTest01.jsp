@@ -11,7 +11,8 @@
 
 <h1> gitTest.jsp 문서입니다.</h1>
 <h2> branch01에서 작업하고 있어요! </h2>
-
+<hr color="blue">
+<h2> master상태에서 작업하고 있어요! </h2>
 
 </body>
 </html>
